@@ -1,4 +1,4 @@
-FROM node:8.1
+FROM node:8.9.0
 
 LABEL maintainer "Zak Henry <https://github.com/zerothstack>"
 
